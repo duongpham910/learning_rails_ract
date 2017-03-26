@@ -6,7 +6,7 @@ const paths = {
 };
 
 module.exports = {
-  entry: paths.src + "/bootstrap",
+  entry: paths.src + "/index",
   output: {
     path: paths.dest,
     filename: "react-app.js",
