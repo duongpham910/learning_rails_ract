@@ -19,3 +19,7 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# React module
+node_modules
+app/assets/javascripts/react-app.js
